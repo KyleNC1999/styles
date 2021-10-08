@@ -8,6 +8,13 @@ body {
     letter-spacing: 1px;
 }
 
+img {
+    display: block;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1 {
     font-family: 'Scheherazade New', serif;
     color:rgb(224, 182, 104);
